@@ -1,3 +1,8 @@
+#Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am SRINIVAS 👈
+
+
+
+
 <p align="center">
    <img src="https://gpvc.arturio.dev/Mrdecent08" alt="profile views"> •  
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Mrdecent08?label=Followers&style=social"> •   
